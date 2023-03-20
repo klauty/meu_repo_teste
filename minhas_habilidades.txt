@@ -1,3 +1,5 @@
 Svelte
 pixel art
 Rust
+andar de skate
+pintar 
